@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+  img {
+    width: 200px;
+}
+
+section {
+    border: 1px solid lightgrey;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 20px;
+    width: 40%;
+  }
